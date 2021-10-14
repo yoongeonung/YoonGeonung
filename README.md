@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoongeonung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoongeonung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoongeonung)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 YoonGeonung/YoonGeonung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
