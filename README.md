@@ -10,7 +10,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoongeonung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongeonung&repo=github-readme-stats" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=yoongeonung&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoongeonung&repo=convoychat" />
